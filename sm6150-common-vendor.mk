@@ -98,7 +98,7 @@ PRODUCT_PACKAGES += \
     libdsutils \
     libidl \
     libmdmdetect \
-    libmmosal_vendor \
+    libmmosal \
     libqmi \
     libqmi_cci \
     libqmi_client_helper \
@@ -174,7 +174,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.btconfigstore@1.0-impl \
     vendor.qti.hardware.btconfigstore@2.0-impl \
     vendor.qti.hardware.capabilityconfigstore@1.0-impl \
-    vendor.qti.hardware.fm@1.0-impl \
+    vendor.qti.hardware.fm@1.0-impl_vendor \
     vendor.qti.hardware.qccvndhal@1.0-impl \
     vendor.qti.hardware.qseecom@1.0-impl \
     vendor.qti.hardware.soter@1.0-impl \
