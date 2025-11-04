@@ -102,7 +102,7 @@ PRODUCT_PACKAGES += \
     libdsutils \
     libidl \
     libmdmdetect \
-    libmmosal \
+    libmmosal_vendor \
     libqmi \
     libqmi_cci \
     libqmi_client_helper \
