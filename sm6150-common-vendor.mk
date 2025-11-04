@@ -409,3 +409,9 @@ PRODUCT_PACKAGES += \
     wfdvndservice \
     wifidisplayhalservice \
     wfdservice64
+
+PRODUCT_PACKAGES += \
+    system_ext_priv-app_WfdService_lib_arm64_libwfdnative_so
+
+PRODUCT_BOOT_JARS += \
+    WfdCommon
