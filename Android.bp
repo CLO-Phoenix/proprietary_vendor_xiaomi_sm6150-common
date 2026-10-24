@@ -7869,6 +7869,7 @@ prebuilt_etc_xml {
 cc_prebuilt_binary {
     name: "adpl",
     owner: "xiaomi",
+    allow_undefined_symbols: true,
     target: {
         android_arm64: {
             srcs: [
@@ -8811,6 +8812,7 @@ cc_prebuilt_binary {
 cc_prebuilt_binary {
     name: "qti",
     owner: "xiaomi",
+    allow_undefined_symbols: true,
     target: {
         android_arm64: {
             srcs: [
