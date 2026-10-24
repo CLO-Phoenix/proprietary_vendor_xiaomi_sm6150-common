@@ -349,7 +349,6 @@ PRODUCT_PACKAGES += \
     adsprpcd \
     cdsprpcd \
     cnd \
-    cnss-daemon \
     dpmQmiMgr \
     dspservice \
     android.hardware.bluetooth@1.0-service-qti \
