@@ -7842,6 +7842,7 @@ android_app_import {
 dex_import {
     name: "audiosphere",
     owner: "xiaomi",
+    enabled: false,
     jars: [
         "proprietary/system_ext/framework/audiosphere.jar",
     ],
